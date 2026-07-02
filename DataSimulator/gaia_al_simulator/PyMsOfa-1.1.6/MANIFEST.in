@@ -1,0 +1,5 @@
+include C/sofa.h
+include C/sofam.h
+recursive-include C *
+include LICENSE
+include README.md
